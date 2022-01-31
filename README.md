@@ -1,5 +1,5 @@
 # BOT ltclick for TERMUX (LITECOIN-LEGIT BANGETZ)
-- apt update -y && apt upgrade
+- apt update -y && apt upgrade -y
 - apt install git
 - apt install php
 - git clone https://github.com/PjuangRetjeh/ltclick.git
