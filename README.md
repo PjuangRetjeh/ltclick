@@ -1,4 +1,4 @@
-# BOT ltclick for TERMUX (LITECOIN-LEGIT BANGETZ)
+# BOT ltclick for TERMUX (LITECOIN-LEGIT BANGETZ) #
 - apt update -y && apt upgrade -y
 - apt install git
 - apt install php
